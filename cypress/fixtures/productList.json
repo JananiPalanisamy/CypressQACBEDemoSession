@@ -1,0 +1,14 @@
+{
+    "validateTaxForProducts": {
+      "productName": "MacBook",
+      "taxValue": "$500.00"
+    },
+    "verifyAddtoCartAddition":{
+      "mainItem":"Phones & PDAs",
+      "subItem":"Monitor (2)",
+      "products":["HTC Touch HD","iPhone"],
+      "expectedTotalPrice":""
+
+    }
+   
+  }
